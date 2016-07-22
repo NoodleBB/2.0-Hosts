@@ -101,6 +101,10 @@
 - [TsoHost](https://www.tsohost.com)
   * **php55**: 12
   * **php56**: 8
+
+- [Uberspace](https://uberspace.de)
+  * **php55**: 6
+  * **php56**: 9
   
 - [Versio](http://www.versio.nl/)
   * **php55**: 31
